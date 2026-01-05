@@ -1,0 +1,6 @@
+nav {
+  /* margin: 1rem; */
+  display: flex;
+  justify-content: left;
+  gap: 1rem;
+}
